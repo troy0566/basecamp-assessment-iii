@@ -28,12 +28,10 @@ Show an understanding of the React concepts taught in Basecamp. This project sho
 
 When you have completed the challenge please follow these instructions:
 
-* Open the terminal and navigate to where this assessment is.
 * Commit all of your completed code.
-* Type `git checkout -b gh-pages`
-* Type `git push -u origin gh-pages`
-* Find your account name on github and insert it into this url `http://[YourGithubAccountName].github.io/basecamp-assessment-iii`
-* Open that url to make sure it works, then send that url to basecamp@devmountain.com!
+* Be sure to review the GitHub lesson if you need a review.
+* Once you have committed your code, send a link to the repository to basecamp@devmountain.com
+
 
 ## Contributions
 
